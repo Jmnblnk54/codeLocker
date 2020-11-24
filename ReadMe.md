@@ -16,7 +16,7 @@ A place to save and share code Snippets!
 
  * [Badges](#badges)
 
-## Installation
+## Installation (for contributors)
 
 Dependancies:
 1. Open the development folder and begin by running the command "npm i".  
